@@ -19,15 +19,15 @@ const Footer = () => {
       <ul className="text-sm md:text-xl">
         <li className="flex gap-1 items-center">
           <MdOutlineEmail size={20} />
-          myemail@gmail.com
+          sunnykumar701170@gmail.com
         </li>
         <li className="flex gap-1 items-center">
           <CiLinkedin />
-          linkdlin.com/username
+          linkdlin.com/sunny-kumar-coder
         </li>
         <li className="flex gap-1 items-center">
           <FaGithub />
-          github.com/username
+          github.com/SunnyKumar-code
         </li>
       </ul>
     </div>
